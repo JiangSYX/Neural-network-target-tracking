@@ -17,7 +17,7 @@ The first iteration will be carried out after the program is started, and the wi
 The operation result of neural network has a little problem, but the problem is not big.
 
 - 4 nerves in the input layer: Target X coordinate, Target Y coordinate, AI X coordinates, AI Y coordinates
-- 8 nerves in the output layer: Up, down, left and right, upper left, lower left, upper right and lower right
+- 8 nerves in the output layer: Up, down, left, right, Top left, bottom left, top right, bottom right
 
 ### make_data.py
 
@@ -35,3 +35,6 @@ The program has a special limit on the amount of data to ensure that the number 
 ### data.json
 
 Training data of neural network
+
+- 1, 2, 3 and 4 represent up, down, left and right directions
+- 5, 6, 7, 8 is Top left, bottom left, top right, bottom right
