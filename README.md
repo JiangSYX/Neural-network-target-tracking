@@ -15,5 +15,5 @@ The first iteration will be carried out after the program is started, and the wi
 
 The operation result of neural network has a little problem, but the problem is not big.
 
-4 nerves in the input layer: Target X coordinate, Target Y coordinate, AI X coordinates, AI Y coordinates
-8 nerves in the output layer: Up, down, left and right, upper left, lower left, upper right and lower right
+1. 4 nerves in the input layer: Target X coordinate, Target Y coordinate, AI X coordinates, AI Y coordinates
+2. 8 nerves in the output layer: Up, down, left and right, upper left, lower left, upper right and lower right
