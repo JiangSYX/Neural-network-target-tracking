@@ -11,7 +11,8 @@ The first iteration will be carried out after the program is started, and the wi
 - Number of nerves in input layer: 4
 - Number of hidden layer nerves: 200
 - Number of nerves in output layer: 8
-- Learning rate:0.01
+- Learning rate: 0.01
+- Activation function: sigmoid function
 
 The operation result of neural network has a little problem, but the problem is not big.
 
